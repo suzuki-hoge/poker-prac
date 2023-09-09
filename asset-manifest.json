@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poker-prac/static/css/main.d564d879.css",
+    "main.js": "/poker-prac/static/js/main.ac1b0f3d.js",
+    "index.html": "/poker-prac/index.html",
+    "main.d564d879.css.map": "/poker-prac/static/css/main.d564d879.css.map",
+    "main.ac1b0f3d.js.map": "/poker-prac/static/js/main.ac1b0f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d564d879.css",
+    "static/js/main.ac1b0f3d.js"
+  ]
+}
