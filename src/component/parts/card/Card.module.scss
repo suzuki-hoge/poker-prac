@@ -1,0 +1,23 @@
+.component {
+  border-radius: 8px;
+  border: solid 1px black;
+  width: 3rem;
+  height: 4rem;
+  padding: 0.2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
+
+span {
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+}

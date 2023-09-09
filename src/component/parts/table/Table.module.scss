@@ -1,0 +1,84 @@
+.component {
+  border-collapse: collapse;
+}
+
+.cell {
+  width: 2rem;
+  text-align: center;
+  border: solid 1px black;
+}
+
+th {
+  width: 2rem;
+}
+
+.act {
+
+}
+
+.stb {
+ opacity: 0.2;
+}
+
+.v6 {
+  background-color: darkblue;
+  color: white;
+}
+
+.v6:after {
+  content: '6';
+}
+
+.v5 {
+  background-color: darkred;
+  color: white;
+}
+
+.v5:after {
+  content: '5';
+}
+
+.v4 {
+  background-color: orange;
+  color: black;
+}
+
+.v4:after {
+  content: '4';
+}
+
+.v3 {
+  background-color: green;
+  color: black;
+}
+
+.v3:after {
+  content: '3';
+}
+
+.v2 {
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.v2:after {
+  content: '2';
+}
+
+.v1 {
+  background-color: white;
+  color: black;
+}
+
+.v1:after {
+  content: '1';
+}
+
+.v0 {
+  background-color: gray;
+  color: black;
+}
+
+.v0:after {
+  content: '0';
+}

@@ -1,0 +1,18 @@
+.component {
+
+}
+
+.cards {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.5rem;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  font-size: 2rem;
+  cursor: pointer;
+}
